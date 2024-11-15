@@ -8,7 +8,7 @@
 
 <br />
 <br />
-Hi, I'm [<a href="https://walidmaouche.github.io/">Walid Maouche</a>], a Full Stack developer and a freelance software engineer from French with 5+ years of experience.
+Hi, I'm [<a href="https://walidmaouche.vercel.app/">Walid Maouche</a>], a Full Stack developer and a freelance software engineer from French with 5+ years of experience.
 
 - 💼 Any freelance work? Do reach, [email](mailto:walidmaouche24@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
